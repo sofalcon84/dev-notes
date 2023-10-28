@@ -1,3 +1,8 @@
+---
+title: 'Test for MDX'
+date: '2023-10-28'
+tags: ['nex.js', 'nextjs', 'text']
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
